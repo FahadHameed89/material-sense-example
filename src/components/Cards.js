@@ -48,6 +48,10 @@ class Cards extends Component {
                   subtitle="One page with a list of a collection"
                 />
                 <CardItem />
+                <CardItem />
+                <CardItem />
+                <CardItem />
+                <CardItem />
               </Grid>
             </Grid>
           </Grid>
